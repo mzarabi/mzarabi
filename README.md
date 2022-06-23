@@ -1,6 +1,5 @@
-# Hi there <img src="https://github.com/mzarabi/mzarabi/blob/eb396b57b104dce03f501ed98d6d9cc38188e2d7/wave.gif" width="10px">
-
-### My name is Marcus Zarabi and I'm a software developer student.
+# Hi there 
+### My name is Marcus Zarabi and I'm a software developer.
 
 ## 🧰 Languages & tools
 
